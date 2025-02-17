@@ -1,4 +1,4 @@
-# Medical Hospital Website (welness vista)
+# Medical Hospital Website (wellness vista)
 
 ## Description
 This project is a responsive and user-friendly website designed for a medical hospital. The website provides comprehensive information about the hospital's services, departments, doctors, and facilities. It also includes contact information, appointment booking, and other useful resources for patients.
